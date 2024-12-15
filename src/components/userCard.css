@@ -1,0 +1,29 @@
+
+
+.container-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.btn-enviar {
+    margin-top: 13px;
+    width: 180px;
+}
+
+.btn-enviar:hover {
+    background-color: #2d90cc;
+    transition: 1.08s;   
+}
+
+label {
+    margin-right: 130px;
+    margin-top: 10px;
+}
+
+input {
+    outline: none;
+}
+

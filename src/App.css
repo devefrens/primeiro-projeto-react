@@ -1,0 +1,4 @@
+#root {
+  text-align: center;
+  flex: 1; /* Faz o conteúdo ocupar o espaço restante */
+}
